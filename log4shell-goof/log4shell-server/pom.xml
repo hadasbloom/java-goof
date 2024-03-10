@@ -42,6 +42,11 @@
       <artifactId>commons-lang3</artifactId>
       <version>3.11</version>
     </dependency>
+    <dependency>
+      <groupId>com.cedarsoftware</groupId>
+      <artifactId>json-io</artifactId>
+      <version>4.10.1</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
